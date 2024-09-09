@@ -214,23 +214,8 @@ html {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
-.ying {
-    filter: blur(3px);
-}
-
-
-.instrutores h1 {
-    color: white;
-    position: absolute;
-    top: 112rem;
-    font-size: 3rem;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
-    left: 33rem;
-}
-
 .equipe {
-    background-color: rgb(22, 110, 81);
+    background-color: skyblue;
     display: flex; 
     height: 55rem;
 }
@@ -238,9 +223,9 @@ html {
 .equipe h1 {
     position: absolute;
     top: 111rem;
-    left: 32rem;
+    left: 35rem;
     font-size: 3rem;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: white;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
