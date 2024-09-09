@@ -94,4 +94,123 @@ html {
     font-size: 1.1rem;
     left: 4.5rem;
     top: 1.9rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
 }
+
+.depoimentos {
+    display: flex;
+    background-color: skyblue;
+    width: 100%;
+    height: 700px;
+}
+
+.depoimentos h1 {
+    display: flex;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2.2rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+    margin-top: 2rem;
+}
+
+.depoimentos img {
+    display: flex;
+    height: 400px;
+    width: 400px;
+    border-radius: 2rem;
+    margin: 2rem;
+}
+
+.feedbacks {
+    display: flex;
+    background-color: white;
+    border-radius: 2rem;
+    width: 120rem;
+    height: 33rem;
+    margin-top: 9rem;
+    margin-right: 8rem;
+    justify-content: start;
+    align-items: center;
+}
+
+.gridDepoimentos {
+    display: flex;
+    margin: 1rem;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+}
+
+.gridDepoimentos h3 {
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.mateus img {
+    position: absolute;
+    top: 84rem;
+    left: 38rem;
+    width: 6rem;
+    height: 6rem;
+    border-radius: 10rem;
+}
+
+.mateus h3 {
+    position: absolute;
+    left: 47rem;
+    top: 87rem;
+}
+
+.mateus p {
+    position: absolute;
+    left: 47rem;
+    top: 88.4rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.lucas img {
+    position: absolute;
+    top: 94rem;
+    left: 38rem;
+    width: 6rem;
+    height: 6rem;
+    border-radius: 10rem;
+}
+
+.lucas h3 {
+    position: absolute;
+    left: 47rem;
+    top: 97rem;
+}
+
+.lucas p {
+    position: absolute;
+    left: 47rem;
+    top: 98.4rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.caua img {
+    position: absolute;
+    top: 74rem;
+    left: 38rem;
+    width: 6rem;
+    height: 6rem;
+    border-radius: 10rem;
+}
+
+.caua h3 {
+    position: absolute;
+    left: 47rem;
+    top: 77rem;
+}
+
+.caua p {
+    position: absolute;
+    left: 47rem;
+    top: 78.5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
