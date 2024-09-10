@@ -10,4 +10,4 @@ Teachers screen
 Classes screen
 ![Captura de tela 2024-09-09 232239](https://github.com/user-attachments/assets/463fc3df-f9bb-4203-a7fc-c5fd6d3a1c74)
 
-Disclaimer: This web page was maded on Mozilla Firefox browser
+Disclaimer: This web page was made on Mozilla Firefox browser
